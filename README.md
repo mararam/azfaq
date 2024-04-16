@@ -1,5 +1,6 @@
-## Application Gateway
-- https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq
+# Azure FAQs
+
+- [Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq)
 
 ## Firewall
 - https://learn.microsoft.com/en-us/azure/firewall/firewall-faq
