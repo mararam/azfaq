@@ -1,6 +1,6 @@
 # Azure FAQs
 
-- [Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq)
+ - [Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq)
  - [Firewall](https://learn.microsoft.com/en-us/azure/firewall/firewall-faq)
  - [Storage Files](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-faq)
  - [Load Balancers](ttps://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-faqs)
@@ -8,4 +8,7 @@
  - [Private Endpoints](https://learn.microsoft.com/en-us/azure/private-link/private-link-faq)
  - [Managed Disks](https://learn.microsoft.com/en-us/azure/virtual-machines/faq-for-disks?tabs=azure-portal)
  - [Virtual Machines](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/faq)
-
+ - [Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-faq)
+ - [Windows Virtual Machines](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/faq)
+ - [Managed Disk](https://learn.microsoft.com/en-us/azure/virtual-machines/faq-for-disks?tabs=azure-portal)
+ - [Azure Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-faq)
